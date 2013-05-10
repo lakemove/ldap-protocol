@@ -1,0 +1,13 @@
+{
+  "name": "ldap-protocol"
+  , "version": "0.0.1"
+
+  , "dependencies": {
+      "asn1" : "0.1.11"
+    }
+  , "devDependencies": {
+    }
+  , "engines": {
+      "node": ">=0.8.0"
+    }
+}
